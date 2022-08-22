@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pubg White Suit
+* source:	https://sketchfab.com/3d-models/pubg-white-suit-32779d2f35e449d092dae53f88ab7753
+* author:	iysif (https://sketchfab.com/iysif)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pubg White Suit" (https://sketchfab.com/3d-models/pubg-white-suit-32779d2f35e449d092dae53f88ab7753) by iysif (https://sketchfab.com/iysif) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

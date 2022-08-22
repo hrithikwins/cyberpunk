@@ -1,11 +1,11 @@
 Model Information:
-* title:	(FREE) Cyberpunk Hovercar
-* source:	https://sketchfab.com/3d-models/free-cyberpunk-hovercar-3205b1075bb44ffc826bce0c2a04d74c
-* author:	Karol Miklas (https://sketchfab.com/karolmiklas)
+* title:	Pubg White Suit
+* source:	https://sketchfab.com/3d-models/pubg-white-suit-32779d2f35e449d092dae53f88ab7753
+* author:	iysif (https://sketchfab.com/iysif)
 
 Model License:
-* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
-* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "(FREE) Cyberpunk Hovercar" (https://sketchfab.com/3d-models/free-cyberpunk-hovercar-3205b1075bb44ffc826bce0c2a04d74c) by Karol Miklas (https://sketchfab.com/karolmiklas) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+This work is based on "Pubg White Suit" (https://sketchfab.com/3d-models/pubg-white-suit-32779d2f35e449d092dae53f88ab7753) by iysif (https://sketchfab.com/iysif) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
